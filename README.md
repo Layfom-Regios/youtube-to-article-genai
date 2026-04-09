@@ -36,6 +36,19 @@ Convert any YouTube video into a structured, professional article with downloada
 
 ---
 
+## 📸 Output
+1. Generated article
+2. Downloadable PDF
+3. HTML webpage
+
+
+
+## 🧠 Key Learnings
+1. Handling long text with chunking
+2. Prompt engineering for structured output
+3. Managing encoding issues in PDFs
+4. Building end-to-end GenAI pipelines
+
 ## 🧪 Setup Instructions
 
 ```bash
@@ -44,15 +57,4 @@ cd youtube-to-article-genai
 
 
 
-📸 Output
-1. Generated article
-2. Downloadable PDF
-3. HTML webpage
 
-
-
-🧠 Key Learnings
-1. Handling long text with chunking
-2. Prompt engineering for structured output
-3. Managing encoding issues in PDFs
-4. Building end-to-end GenAI pipelines
